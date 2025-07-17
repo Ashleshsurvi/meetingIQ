@@ -35,7 +35,7 @@ It consists of main folder **meetingIQ** with sub folders **meetingIQ_backend** 
 ## ⚙️ Setup Instructions
 
 **✅ 1. Clone the Repo**
-git clone https://github.com/your-username/meetingIQ.git
+git clone https://github.com/your-username/meetingIQ.git](https://github.com/Ashleshsurvi/meetingIQ.git
 cd meetingIQ
 
 **✅ 2. Backend Setup**
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 .env contents example:
 OPENAI_API_KEY=your_openai_api_key_here
 
-NOTE: if you want to use gpt the enable USE_GPT to true (USE_GPT=true) in views.py.
+NOTE: if you want to use gpt the enable USE_GPT to true (USE_GPT=true) https://github.com/Ashleshsurvi/meetingIQ/blob/4e46139c244f771006e483457976eb00c847e211/meetingIQ_backend/meetingIQ_app/views.py#L15.
 
 To run: python manage.py runserver
 
