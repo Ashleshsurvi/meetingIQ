@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+*.log
+*.sqlite3
+*.egg-info/
+env/
+venv/
+
+# Django
+meetingIQ_backend/.env
+meetingIQ_backend/db.sqlite3
+
+# Node/React
+meetingIQ_frontend/node_modules/
+meetingIQ_frontend/.env
+meetingIQ_frontend/dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
